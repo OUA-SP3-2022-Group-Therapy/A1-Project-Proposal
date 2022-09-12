@@ -1,0 +1,2 @@
+Current It knowledge
+My current IT Knowledge is based on programming in Java and JavaScript and a have an idea of the usage of Android Studio for mobile creation of applications. I hope to utilise the usage of React or other forms of web-based entities as these will be useful in integration from a mobile applications to web and is the progressive step to making applications multi-platform due to the difference in Apple and Android based systems.
