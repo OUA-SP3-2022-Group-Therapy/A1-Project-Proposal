@@ -2,24 +2,24 @@
 
 
 # 1. What
-    
+
 ## 1.1 Project Name
-      
+
   ...
 
 
 ## 1.2 Project Description
-    
+
 ...
 
 ---
 ## 1.3 The Team
 
-### Ashton Nicholson 
+### Ashton Nicholson
 
 **Email:** *S3915895@Student.rmit.edu.au*
 
-**Locale:** 
+**Locale:**
 
 
 **Background & Passion in IT**
@@ -36,7 +36,7 @@ My challenges in the context of the project would be to convert a project to for
 
 **What role do you see yourself mainly playing in the team?**
 
-The specific type of task I can see myself contributing is some programming knowledge, design ideas as well as general input and encouragement to the task at hand. 
+The specific type of task I can see myself contributing is some programming knowledge, design ideas as well as general input and encouragement to the task at hand.
 
 ___
 
@@ -44,11 +44,11 @@ ___
 
 **Email:** S3965252@student.rmit.edu.au
 
-**Locale:** 
+**Locale:**
 
 **Background & Passion in IT**
 
-My name is Bronagh Falloon, I was born in New Zealand my family moved to Australia when I was a year old (I still have my kiwi accent somehow), I was homeschool with my three siblings for all of my schooling until I started a cert IV in healthcare after completing the cert IV I did two year of a bachelor's degree in Nursing. 
+My name is Bronagh Falloon, I was born in New Zealand my family moved to Australia when I was a year old (I still have my kiwi accent somehow), I was homeschool with my three siblings for all of my schooling until I started a cert IV in healthcare after completing the cert IV I did two year of a bachelor's degree in Nursing.
 I’ve always had an interested in IT after I wiped the OS from the family mac (fun times) as a child. I’ve been the go-to person in my family for tech-support for years to so I decided to try and make a job out of it.
 
 **What are you good at / What you’re interested in?**
@@ -67,7 +67,7 @@ I imagine the role I will be taking is design the visual aspect of the website a
 
 ### Joshua William Wagner
 
-**Student Email Address:** s3954903@student.rmit.edu.au 
+**Student Email Address:** s3954903@student.rmit.edu.au
 
 **Locale:** Melbourne, Australia
 
@@ -93,9 +93,9 @@ I mainly see myself as either as a programmer or a web designer for the team.
 
 ### Marius Pascal Gontran
 
-**Student Email Address:** S3916522@student.rmit.edu.au 
+**Student Email Address:** S3916522@student.rmit.edu.au
 
-**Locale:** 
+**Locale:**
 
 **Background & Passion in IT:**
 
@@ -108,7 +108,7 @@ As I have completed a few subjects as part of my Bachelor of  IT, I have some ex
 
 **What are your weak-point in the context of the project?**
 
-The lack of experience with IT projects and work will mean a steeper learning curve with the technology and processes required to complete this project successfully. While I have 
+The lack of experience with IT projects and work will mean a steeper learning curve with the technology and processes required to complete this project successfully. While I have
 
 **What role do you see yourself mainly playing in the team?**
 
@@ -118,9 +118,9 @@ With my work experience leading and coordinating teams, I can support the team w
 
 ### Chris Hennessy
 
-**Student Email Address:** tba 
+**Student Email Address:** tba
 
-**Locale:** 
+**Locale:**
 
 **Background & Passion in IT:**
 
@@ -147,20 +147,24 @@ With my work experience leading and coordinating teams, I can support the team w
 
 **Functional Features:**
 
-1. User can create an account 
+1. User can create an account
 2. User can add a pet
 3. User can create a schedule (food schedule, medication schedule)
-4. User can invite one or more users to schedule 
+4. User can invite one or more users to schedule
 5. User can add one or more pets to schedule
+6. User can add one or more pets to schedule
+7. User can set a timer for a push notification for length of time away from home if requiring to feed pet/s.
 
 
 **Non-Functional Features:**
 1.  UI with high usability
+2.  Data usage limit.
+3.  Email notification option.
 
 
 ### 1.4.2 Extended Viable Features (EVFs)
 
-1. User can add photo of pet 
+1. User can add photo of pet
 2. User can create a reminder (pet birthday, vet appointment, etc)
 
 ---
