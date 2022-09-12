@@ -6,6 +6,7 @@ User can add a pet
 User can create a schedule (food schedule, medication schedule)
 User can invite one or more users to schedule
 User can add one or more pets to schedule
+User can set a timer for a push notification for length of time away from home if requiring to feed pet/s.
 
 
 
@@ -13,7 +14,8 @@ User can add one or more pets to schedule
 
 Non-Functional Features:
 UI with high usability
-
+Data usage limit.
+Email notification option.
 
 
 
@@ -23,3 +25,4 @@ UI with high usability
 ---------------------------------
 User can add photo of pet
 User can create a reminder (pet birthday, vet appointment, etc)
+User can add animal weight & height chart.
