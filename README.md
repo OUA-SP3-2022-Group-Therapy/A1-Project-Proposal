@@ -166,6 +166,7 @@ With my work experience leading and coordinating teams, I can support the team w
 
 1. User can add photo of pet
 2. User can create a reminder (pet birthday, vet appointment, etc)
+3. User can add animal weight & height chart.
 
 ---
 
