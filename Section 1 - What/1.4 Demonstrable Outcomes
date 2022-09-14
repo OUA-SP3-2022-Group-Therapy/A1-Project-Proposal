@@ -1,6 +1,6 @@
 1.Minimum Viable Features (MVFs)
 --------------------------------
-Functional Features:
+--Functional Features:
 User can create an account
 User can add a pet
 User can create a schedule (food schedule, medication schedule)
@@ -8,21 +8,25 @@ User can invite one or more users to schedule
 User can add one or more pets to schedule
 User can set a timer for a push notification for length of time away from home if requiring to feed pet/s.
 
+Client can view scheduled events and reminders for all pets on a monthly calendar (future and past months can be viewed with arrow buttons)
+(Building on line 4) Account can hold several pets and be linked to other accounts as a 'Family' group. One account is assigned as the admin/master account.
+(Building on line 5) Client can create a pet profile which contains their name, type of pet (e.g. dog - labrador), age, weight, height, food + medication (etc) schedule and additional infomation.
+(Building on line 6) Client can schedule specific kinds of events by selecting an option in a drop-down box.
 
-
-
-
-Non-Functional Features:
+--Non-Functional Features:
 UI with high usability
 Data usage limit.
-Email notification option.
+Email notification option. (this is also a functional feature)
 
-
-
-
+(Adding to Line 17) Appealing UI design - colour + placement of features
+Navigation bars (hamburger menu, bottom bar, etc)
 
 2.Extended Viable Features (EVFs)
 ---------------------------------
-User can add photo of pet
+User can add photo of pet (as a profile icon)
 User can create a reminder (pet birthday, vet appointment, etc)
 User can add animal weight & height chart.
+
+Improved UI design to include additional support such as a navigation and help buttons.
+Add multi factor authentication
+Langauge support
