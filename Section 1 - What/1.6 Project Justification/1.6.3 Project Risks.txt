@@ -1,1 +1,28 @@
+Project Risks:
+1.	The tools including the software or programming language selected may not be able to complete the required tasks.
+The team will research and evaluate multiple options for the tooling against the tasks that needs to be completed and select the one that is the most appropriate. We will keep shortlisted options as alternatives, should the requirements change.
+2.	The tools we will need to use to complete the project may have a steep learning curve.
+
+We will review progress and feedback from the team to decide whether we should switch to alternate options identified previously.
+
+3.	The tools we select may have costs associated with them.
+
+The team will analyse the tools and possible costs so we can set a maximum budget for the project costs. Alternatively, we may decide to proceed with free open-source options where possible to keep expenditures down.
+
+4.	We may include too many complex features for an initial launch.
+The team will brainstorm the most essential features required for an initial and rank them in order of priority to appropriately classify them as MVFs or EVFs. We will analyse the workload corresponding to each feature, so we are able to plan our project timeframe accordingly.
+
+
+Team Dynamics
+1.	Losing a team member will add a large amount of work on the rest of the team.
+In the event of team member loss, the team will evaluate the remaining workload and consider whether the project is still viable. If not, the team will approach course coordinator for advice.
+ 
+2.	Team members may reduce participation due to workload, personal commitments and the amount of work completed.
+To avoid team member fatigue, the team will ensure the tasks are shared fairly. Team members are encouraged to report delays or unforeseen commitments that may arise so support can be provided from the rest of the team.
+
+3.	Lack or slow communications through the team could cause delays to project’s progress.
+The team will agree to scheduled communication points including a weekly collaboration meeting as well as a casual check-in at the beginning of the week to ensure we are maintaining open communication lines.
+
+
+
 
