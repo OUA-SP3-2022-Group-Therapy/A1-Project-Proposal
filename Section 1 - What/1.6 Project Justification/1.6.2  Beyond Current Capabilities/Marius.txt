@@ -1,1 +1,4 @@
-
+The previous subjects i have completed as part of my bachelor of IT have given me a basic understading of a few areas
+such as: programming concept as well as core programming skills in Python and Java languages. I have also been exposed
+to UI design in User Centered Design and HTML, CSS, JavaScript, and PHP in Web Programming. Creating a web app, will
+build on these skills to a more advanced level and combine them to create a finished product. 
