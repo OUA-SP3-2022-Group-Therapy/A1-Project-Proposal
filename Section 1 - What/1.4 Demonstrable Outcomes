@@ -4,7 +4,7 @@
 User can create an account
 User can add a pet
 User can create a schedule (food schedule, medication schedule)
-user can create food/medications with descriptions/profile
+user can create item with descriptions
 User can invite one or more users to schedule
 User can add one or more pets to schedule
 User can set a timer for a push notification for length of time away from home if requiring to feed pet/s.
