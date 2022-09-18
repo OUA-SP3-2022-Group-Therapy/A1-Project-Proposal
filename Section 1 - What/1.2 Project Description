@@ -1,1 +1,10 @@
-PetPal is a web application that makes scheduling pets' feeding, medicating or other events effortless. Users will be able to create their accounts as well as family groups to invite other users to co-manage the pets' schedules. Users can create different types of schedules and receive a notification when another member of the family group completes the task or receive a reminder when the due time approaches. Furthermore, users can create a list of items, such as different foods or medications, to include them in the corresponding schedule. For example, a user can create a feeding family group with details on portion and type of food and receive a notification if someone else feeds the cat; otherwise will be reminded if feeding time is missed. In addition, the app will also allow users to create their pet's profile containing all their essential information and track data such as weight and height trends. With its graphical user interface, Petpal will make it very simple for users to access the app's different functions.
+PetPal is a web application that makes scheduling pets' feeding, medicating or other events effortless. 
+Users will be able to create their accounts as well as family groups to invite other users to co-manage 
+the pets' schedules. Users can create different types of schedules and receive a notification when another 
+member of the family group completes the task or receive a reminder when the due time approaches. 
+Furthermore, users can create a list of items, such as different foods or medications, to include them in 
+the corresponding schedule. For example, a user can create a feeding family group with details on portion 
+and type of food and receive a notification if someone else feeds the cat; otherwise will be reminded if 
+feeding time is missed. In addition, the app will also allow users to create their pet's profile containing 
+all their essential information and track data such as weight and height trends. With its graphical user 
+interface, Petpal will make it very simple for users to access the app's different functions.
