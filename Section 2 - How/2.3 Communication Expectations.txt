@@ -1,1 +1,47 @@
+Tools for communication
+
+•	Trello for allocating work and tasks
+•	Microsoft Teams
+  o	general communication
+  o	team votes and decision making
+  o	hosting team meetings
+•	Use GitHub for documentation/report writing
+•	Works need to be online so we can track progress 
+•	Master assignment documents to be in SharePoint (content to be pasted from GitHub docs)
+
+Frequency of communication
+
+-------------------------------------------------------------
+
+•	At least Twice weekly on Thursdays and Mondays
+•	Thursday meetings are expected to run for at least 40 minutes
+•	Monday check are over Microsoft teams chat 
+•	expect a relpy within 1-4 days to message/announcement
+
+
+Weekly workflow
+
+-------------------------------------------------------------
+
+•	Thursday set task and goals for the week
+
+•	Monday check in and discussion on potential issues and roadblocks
+  o	Set up Trello for the week
+  o	Teams’ members can notify others if they need help with their work and re-assign tasks as needed
+
+Action plan for unresponsive team members
+
+-------------------------------------------------------------
+
+1.	If a team member misses either Monday or Thursday check in
+
+  a.	Send direct message on Microsoft teams
+
+2.	If a team member misses both Monday check and Thursday team meeting. And the team member has not communicated that they are unable to attend
+
+  a.	If team member does not communicate within 1 day(?) we will then email them or if we have their   phone number, we will text them directly
+
+  b.	If by the next Monday check in the team member is still unresponsive, we will contact our mentor  for guidance
+
+3.	If a team member has been unresponsive without prior warning for 2 weeks, we will assume they are unable complete their assigned work and re-assign their workload
 
