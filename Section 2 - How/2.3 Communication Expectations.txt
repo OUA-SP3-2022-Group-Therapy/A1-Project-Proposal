@@ -6,7 +6,10 @@ Tools for communication
   o	team votes and decision making
   o	hosting team meetings
 •	Use GitHub for documentation/report writing
-•	Works need to be online so we can track progress 
+   o	Works need to be online so we can track progress 
+       o Helps prevent working being lost or duplicated by team members
+       o	Improves accountiblity within the team
+       o	Enables team members to edit and get inspiratio from each others work
 •	Master assignment documents to be in SharePoint (content to be pasted from GitHub docs)
 
 Frequency of communication
