@@ -1,1 +1,28 @@
+Decision Making Process
 
+Decision making process from the team regarding the project were defined during the team’s first weekly meeting. The decision was to incorporate a voting system where the team would discuss a problem, or a challenge that may arise and then the team were to collaborate ideas and then vote upon the best solution. If the vote concluded as a draw or came to a standstill the team agreed a team leader had priority over the result, and this was a result.  Each member is expected to vote in the original decision as well as any amendments to an agreed solution.
+The process is flexible, and the team can adjust solutions as the project scope evolves. Any disputes are left to a team leader to give a final decision this can overwrite voted solutions. The approach was adopted by the team to ensure that the project success is paramount and can be viable in the real-world adaptation.
+
+Process Breakdown
+
+1.	A problem, solution or challenge was raised and spoken about with the team. The outcomes are to be brainstorms and the best approaches listed.
+
+2.	The solutions get placed into a list on a group chat thread or during a team meeting the team will speak of the options at the time of said meeting.
+
+3.	Evaluation is also communicated on the suggestions verbally during a meeting or written down where deem fits.
+
+4.	Solution is to be voted upon and the team leader will finalise any draws or standstill votes.
+
+5.	Action for the solution is then adhered to where fits and the team will refer to action points documents or verbal agreements.
+
+6.	Any solutions that mitigate risk or causes the project to come to a standstill will cause a revote which will use the same decision-making process and may be replaced if the solution is consuming too much time or resources in the future scope of the project.
+
+
+Summarised
+
+To summarise the decision-making process works with the team conversing and adapting solutions these decisions are a majority vote system with any tied or standstill votes being referred to the team leader to conclude a result.
+
+Figure
+
+The following flowchart shows the decision process as described in this section.
+[INSERT image]
