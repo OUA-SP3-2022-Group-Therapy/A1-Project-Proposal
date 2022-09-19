@@ -1,17 +1,45 @@
 1.Minimum Viable Features (MVFs)
---------------------------------
---Functional Features:
-User can create an account
-User can create a pet (detailed profile)
-User can create a family group (group of users + schedule)
-Family group can be created for different types of events (food, medications, washing, vet appointments)
+====================================
+Functional Features:
+-------------------------
+-- User can create an account using their email address and a password. The account will contain the details to the pets, 
+family group and schedules they create.
+Validation testing: After they have created their account, users will be able to sign in using their credentials and
+view all the information they have previously entered.
 
---Non-Functional Features:
-Usable UI (application of UCD concepts)
+
+-- User can create and amend a pet with a detailed profile containing pet name, date of birth, species, breeds, allergies, weight, height and a profile image.
+Validation testing: Users can visit their pet's profile to see their details and edit it if needed.
+
+
+-- User can create a family group (group of users + schedule) and invite other user's to join it.
+Validation testing: Users are able to create and join family group to view and be notified of schedules.
+
+
+-- Family group can be created for different types of events (food, medications, washing, vet appointments)
+Validation testing: Users can select the type of event when creating the family group.
+
+
+Non-Functional Features:
+-------------------------
+-- Graphical user interface with usable UI (application of UCD concepts)
+Validation testing: Users can access different features or parts of the app with minimal effort or support.
+
 
 2.Extended Viable Features (EVFs)
----------------------------------
-Calendar View
-User can create an item (food/medication/other)
-Notifications (may be changed to a EVFs based off research)
-Trending height and weight
+====================================
+Schedules and their events are represented in a calendar view to make it easier for users to keep track of them.
+Validation testing: Users are able to open a calendar view of their schedules.
+
+
+User can create an item (food/medication/other) and they are stored in a list
+Validation testing: Users can add these items when creating a schedule
+
+
+Push notifications are sent to the family group when an item is completed or at a scheduled reminder time.
+Validation testing: Users receives a notification when another family group member feeds the pet.
+
+
+Height and weight can be recorded into the app to provide user's with a historical or graphical representation
+the pet's height and weight trend.
+Validation testing: User's can enter the new pet's height and weight, then view a graph representing that information.
