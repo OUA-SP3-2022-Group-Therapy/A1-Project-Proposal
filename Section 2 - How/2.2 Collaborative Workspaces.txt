@@ -1,1 +1,10 @@
-
+MS Teams:
+https://teams.microsoft.com/l/team/19%3ap8gT9iSR31S3qbUXpcsEHXbiIR7asomkNQJKpEmgF101%40thread.tacv2/conversations?groupId=0c08c1bc-d22c-4821-a778-88f0a2d94668&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b 
+Group Therapy primarily use MS teams for communicating progress towards the project (on Mondays) and running the Thursday night meeting. Group Therapy’s team has 2 distinct sections: Posts and Files. The posts section contains the schedule of Pulse checks and weekly meetings. Each of the meeting recordings can be accessed under the relevant thread. Finally, there is files (and documents). This section contains sample templates, guides and meeting notes that the team use for collaborative purposes. Meeting recordings can also be accessed here under the recordings folder. The above link is an invite to Group Therapy’s team.
+Trello:
+https://trello.com/invite/b/5CLIKBn8/831c90fc4554a0db96e4884cee013774/oua-sp3-2022-group-therapy 
+Trello is being used a tool to organise and manage the tasks Group Therapy needs to complete. The Trello board contains all of the MVFs and EVFs along with respective sections for group-wide and individual tasks. The above link is an invite to the team’s board.
+GitHub:
+Organisation: https://github.com/OUA-SP3-2022-Group-Therapy 
+A1 repository: https://github.com/OUA-SP3-2022-Group-Therapy/A1-Project-Proposal 
+GitHub is being used as a platform for the group to share and organise files relevant to the project (with the exception of meeting related files which are accessed through MS teams). The group has created an organization in which there will be several repositories for storing data relevant to our project. The above links are to the organization’s main page and repository for our A1 files.
