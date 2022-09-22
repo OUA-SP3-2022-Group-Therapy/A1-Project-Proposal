@@ -1,25 +1,25 @@
 Tools for communication
 
-•	Trello for allocating work and tasks
-•	Microsoft Teams
-  o	general communication
-  o	team votes and decision making
-  o	hosting team meetings
-•	Use GitHub for documentation/report writing
-   o	Works need to be online so we can track progress 
-       o Helps prevent working being lost or duplicated by team members
-       o	Improves accountiblity within the team
-       o	Enables team members to edit and get inspiratio from each others work
-•	Master assignment documents to be in SharePoint (content to be pasted from GitHub docs)
+Trello will be used to allocate and track work and tasks that are assigned during team meetings. Trello will enable us to see how is responsible for each task and notice if a specific tasks has not been accidentally over looked
+
+Microsoft Teams (MS teams) will be used for general communication; brainstorming solutions and voting when necessary to decide a course of action. MS teams will be used to decide who is responsible for a given task or role and to host the weekly pulse check in and team meeting. 
+
+GitHub will be used for documentation and report writing, this has several benefits, firstly we can track individual contributions to the project secondly work is kept online which improves accountability, prevents team members from duplicating work, and prevents work from being lost.
+
+SharePoint will be used to contain the master assignment document which will be the version submitted, This document will be populated from the GitHub documents and then edit as needed. 
+
+
 
 Frequency of communication
 
 -------------------------------------------------------------
 
-•	At least Twice weekly on Thursdays and Mondays
-•	Thursday meetings are expected to run for at least 40 minutes
-•	Monday check are over Microsoft teams chat 
-•	expect a relpy within 1-4 days to message/announcement
+As a team we have agreed to a twice weekly meetings on Thursdays and Mondays. The Monday pulse check will be informal and are held on the MS team’s chat, team members are expected to post at least one message. Thursday meetings are held over MS teams by video call, team meetings are expected to run for at least 40 minutes and everyone is expected to attend with camera and audio.
+
+For communication out side of these meetings team members are expected to reply within 1 to 4 days of receiving a message. Though active participation in communication is encouraged to enable us to work together effectively 
+
+As a team we understand we all have lives outside of uni and may have other commitments that have to take priority, when this is the case, the team expects to be informed that the team member will be unavailable and will work together to accommodate as needed.  
+
 
 
 Weekly workflow
@@ -31,6 +31,8 @@ Weekly workflow
 •	Monday check in and discussion on potential issues and roadblocks
   o	Set up Trello for the week
   o	Teams’ members can notify others if they need help with their work and re-assign tasks as needed
+  
+  
 
 Action plan for unresponsive team members
 
@@ -44,7 +46,7 @@ Action plan for unresponsive team members
 
   a.	If team member does not communicate within 1 day(?) we will then email them or if we have their   phone number, we will text them directly
 
-  b.	If by the next Monday check in the team member is still unresponsive, we will contact our mentor  for guidance
-
-3.	If a team member has been unresponsive without prior warning for 2 weeks, we will assume they are unable complete their assigned work and re-assign their workload
+  b.	If by the next Monday check in the team member is still unresponsive, we will contact our mentor  for guidance and began re-assgining the team members work load
+  
+  3. If the team member misses their third meeting without communicatio we will treat the member as leaving the team and the team will continue the assignmnet as though the team member has left unless otherwise informed
 
