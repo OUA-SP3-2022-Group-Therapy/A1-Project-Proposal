@@ -1,1 +1,10 @@
+Tools and Resources
+The team has agreed upon using the following tools and resources for the creation of the project. The following will highlight the items used for and what the team hope to achieve using the tools or resource.
 
+Atom
+Atom is used for the HTML, CSS and JavaScript portion of the artifact for the project. Atom is a multi-usable text editor and will allow the team to create a web application in a basic format. Atom also can be used for GitHub Desktop to allow for file changes via an imported repository.
+Version 1.60.0 is the selected latest edition of the program which the team will utilise. This is a free program.
+
+GitHub Desktop
+GitHub will be used to collaborate the teams’ efforts the main basis of the collaboration is done via GitHub with teams as a second location for meeting-based items.
+Version 3.0.8 is the selected edition.
