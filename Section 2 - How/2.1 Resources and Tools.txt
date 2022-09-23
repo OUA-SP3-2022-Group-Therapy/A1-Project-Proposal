@@ -8,3 +8,11 @@ Version 1.60.0 is the selected latest edition of the program which the team will
 GitHub Desktop
 GitHub will be used to collaborate the teams’ efforts the main basis of the collaboration is done via GitHub with teams as a second location for meeting-based items.
 Version 3.0.8 is the selected edition.
+
+SQLite Studio V3.3:
+SQLite is a database engine used to program databases in C programming language. It is commonly used to create databases for demonstrations, small scale projects and web applications.
+Group Therapy is using SQLite as their database engine because it is the cheapest and easiest to learn given the time restrictions of the assessment. SQLite was also chosen because it fit the scale of the web application we are aiming to design.
+Cost – Free
+Alternatives:
+MySQL - https://www.mysql.com/ 
+MongoDB - https://www.mongodb.com/ 
