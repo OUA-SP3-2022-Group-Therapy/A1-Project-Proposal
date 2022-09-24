@@ -16,3 +16,11 @@ Cost – Free
 Alternatives:
 MySQL - https://www.mysql.com/ 
 MongoDB - https://www.mongodb.com/ 
+
+Premiere Pro:
+Premiere Pro is a video editting software, which we will use for the video presentation. It stores video data on the cloud so we can all work and view the video as we go. Premiere Pro is a professional program with a host of features.
+Cost - Free for RMIT students 
+
+alternatives:
+VideoPad
+Lightworks
