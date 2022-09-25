@@ -38,22 +38,22 @@ Action plan for unresponsive team members
 
 -------------------------------------------------------------
 
-1.	Within 24 hours: of a team member missing either Monday or Thursday check in
+1.	Within 24 hours: of a team member missing either Monday or Thursday check in.
 
-  a. Send direct message on Microsoft teams
+  a. Send a direct message on Microsoft teams.
   
-  b. During the meeting a note will be made that member is non-communicated absence in the attendee list
+  b. During the meeting a note will be made that the member is an uncommunicated absentee in the attendee list.
   
-3. within 48 hours: Another team member will check in with the member over microsoft team chat
+2. Within 48 hours: Another team member will check in with the member over the Microsoft team chat.
 
-2.	Within 72 hours: if a team member misses the next team meeting. And the team member has not communicated that they are unable to attend
+3.	Within 72 hours: if a team member misses the next team meeting. And the team member has not communicated that they are unable to attend.
 
   a.	The team will reach out over email and/or over text message (if phone number has been given to another member) to check in and see if they are okay.
   
   b. The team will draft a letter to the faculty and tasks with a close deadline will be reassigned and preliminary plans to reasign work load will be discussed.
 
 
-  3. After 1 week of no communication: If the team member misses their third meeting without communicatio we will treat the member as leaving the team and the team will continue the assignmnet as though the team member has left unless otherwise informed.
+  4. After 1 week of no communication: If the team member misses their third meeting without communication we will treat the member as leaving the team and the team will continue the assignment as though the team member has left unless otherwise informed.
   
     a. the email notifiying faculty of the absent team member will be sent
 
