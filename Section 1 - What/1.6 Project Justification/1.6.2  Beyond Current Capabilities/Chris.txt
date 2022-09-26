@@ -1,0 +1,3 @@
+Beyond Current Capabilities
+
+I have at least a basic understanding of each technical section in this project, like the database, or the frontend,  the limitations that I see for myself are in tying them all together. Does that require more than just the knowledge of the separate parts? Or is there more to it that you can only learn by do a project like this.
