@@ -1,0 +1,27 @@
+
+Email: s3495518@student.rmit.edu.au
+
+Locale: South Australia
+
+Background & Passion in IT.
+
+I was born is South Australia but spent most of my early years living in country NSW and central QLD.
+It wasn't until my late twenties that I found an interest  in IT and started learning to programme.
+After running my own webdesign company for a few years I found software and backend programming to more interesting.
+
+What are you good at / What you’re interested in?
+
+I have a bit of experience in a number of programming languages, from assembly and C to high level languages like Javascript
+and Python. That makes it easier to understand a problem in terms of code layout. I have an interest in learning older
+programming languages in the environment that they were used, as an example I had been learning x86 assembly on a
+Microsoft DOS virtual machine.
+
+
+What are your weak-point in the context of the project?
+
+My weak point is working with others in a programming, IT, environment. Almost all of my programming in the past has
+been by my self or with only occasional input from others.
+
+What role do you see yourself mainly playing in the team?
+
+I think my role will be the more on the backend programming, API, Database and overall programme structure.
