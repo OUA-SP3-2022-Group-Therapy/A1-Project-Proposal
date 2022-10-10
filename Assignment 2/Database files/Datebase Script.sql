@@ -3,6 +3,7 @@
 CREATE TABLE Account
         (Email VARCHAR(100) NOT NULL,
         Password VARCHAR(100) NOT NULL,
+        Name VARCHAR(20),
         User_Type VARCHAR(20),
         Gender VARCHAR(20),
         Date_Created DATE,
@@ -30,16 +31,28 @@ CREATE TABLE Membership
 
 --Schedule info is stored here
 CREATE TABLE Schedule
-        (GroupName VARCHAR(100) NOT NULL,
-        ScheduleName VARCHAR(100) NOT NULL,
-        StartDate DATETIME,
-        EndDate DATETIME,
+        (ScheduleName VARCHAR(100) NOT NULL,
+        GroupName VARCHAR(100) NOT NULL,
+        StartDateTime DATETIME,
+        EndDateTime DATETIME,
         Type VARCHAR(20),
         Frequency VARCHAR(20),
         Portion_Dose VARCHAR(20),
         Description VARCHAR(300),
-        PRIMARY KEY (GroupName, ScheduleName)
+        PRIMARY KEY (ScheduleName)
         FOREIGN KEY (GroupName) REFERENCES Family_Group(GroupName)
+        );
+
+--Event info is stored here
+CREATE TABLE Event
+        (ScheduleName VARCHAR(100) NOT NULL,
+        EventName VARCHAR(100) NOT NULL,
+        StartDateTime DATETIME,
+        EndDateTime DATETIME,
+        EventStatus INTEGER,
+        CompletedBy VARCHAR(100),
+        PRIMARY KEY (ScheduleName, EventName)
+        FOREIGN KEY (ScheduleName) REFERENCES Schedule(ScheduleName)
         );
 
 --Pet info is stored here
