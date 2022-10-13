@@ -1,13 +1,13 @@
---This script was used to create the database. Please refer to [query file] for the database queries.
+--This script was used to create the database. Please refer to Query Script.sql for the database queries.
 --All account info is stored here.
 CREATE TABLE Account
         (UserID VARCHAR(10) NOT NULL,
         Email VARCHAR(100) NOT NULL,
-        Password VARCHAR(100) NOT NULL,
+        Pass VARCHAR(25) NOT NULL,
         Name VARCHAR(20),
         User_Type VARCHAR(20),
         Gender VARCHAR(20),
-        Date_Created DATE,
+        Date_Created DATETIME,
         PRIMARY KEY (UserID)
         );
 
